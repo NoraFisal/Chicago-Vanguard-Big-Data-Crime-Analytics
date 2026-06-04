@@ -199,11 +199,3 @@ results/
 - Scalable Data Pipelines
 
 ---
-
-## Author
-
-Nora Albyahi
-
-AI & Information Technology Student
-
-King Saud University
